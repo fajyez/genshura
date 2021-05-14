@@ -1,0 +1,11 @@
+{
+    "PORT": 3000,
+    "DATABASE": {
+        "host": "queenie.db.elephantsql.com",
+        "port": 5432,
+        "user": "eaxcvrqw",
+        "password": "G2mx-rv8YXaWJgIxTQAucGJ5AkPv-skQ",
+        "database": "eaxcvrqw"
+    },
+    "JWT_SECRET": "genshura"
+}
